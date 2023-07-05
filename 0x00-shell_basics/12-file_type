@@ -1,2 +1,2 @@
 #!/bin/bash
-iamfile -v
+file /tmp/iamfile
