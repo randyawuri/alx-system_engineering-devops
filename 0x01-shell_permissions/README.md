@@ -8,3 +8,4 @@
 7-everybody adss execute permission to all users
 8-james_bond adss all permissions to other users only.
 9-john_doe runs  chmod 753 hello
+10-mirro_permissions sets the mode of hello same as olleh
