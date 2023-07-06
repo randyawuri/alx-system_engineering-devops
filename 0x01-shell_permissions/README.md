@@ -9,3 +9,4 @@
 8-james_bond adss all permissions to other users only.
 9-john_doe runs  chmod 753 hello
 10-mirro_permissions sets the mode of hello same as olleh
+11-directories_permissionsadds execute permissions to all subdirectories of the current directory
