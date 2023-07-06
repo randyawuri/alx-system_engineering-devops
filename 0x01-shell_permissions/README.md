@@ -6,4 +6,5 @@
 5-execute adds execute permission to the owner of the file hello
 6-multiple_permissions adds execute permission to the owner and group owner, and ready permission to others, to the file hello
 7-everybody adss execute permission to all users
-9-james_bond adss all permissions to other users only.
+8-james_bond adss all permissions to other users only.
+9-john_doe runs  chmod 753 hello
