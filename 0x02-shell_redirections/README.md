@@ -8,4 +8,5 @@
 7-file: creates a file containing some text
 8-cwd_state: writesthe result of a command into a file
 9-duplicate_last_line: duplicates the last line of a file
-10-no_more_js: removes all files with .js extension     
+10-no_more_js: removes all files with .js extension
+11-directories: counts the number of directories and subdirectories in current directory     
