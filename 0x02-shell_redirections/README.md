@@ -5,4 +5,5 @@
 4-lastlines: displays the last ten lines of /etc/passwd
 5-firstlines: displays the first ten lines of /etc/passwd file
 6-third_line: displays the thired line of a file
-7-file: creates a file containing some text   
+7-file: creates a file containing some text
+8-cwd_state: writesthe result of a command into a file    
