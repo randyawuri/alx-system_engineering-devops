@@ -4,3 +4,4 @@
 * 2-path: adds directory to PATH
 * 3-paths: counts the number of directories  in the PATH
 * 4-global_variables: lists all environment variables
+* 5-local_variables:  lists all local variables and environment variables, and functions.
