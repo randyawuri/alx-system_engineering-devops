@@ -6,4 +6,5 @@
 5-firstlines: displays the first ten lines of /etc/passwd file
 6-third_line: displays the thired line of a file
 7-file: creates a file containing some text
-8-cwd_state: writesthe result of a command into a file    
+8-cwd_state: writesthe result of a command into a file
+9-duplicate_last_line: duplicates the last line of a file     
