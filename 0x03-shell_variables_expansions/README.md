@@ -16,3 +16,4 @@
 * 100-decimal_to_hexadecimal: converts a number from base 10 to base 16
 * 101-rot13: encodes and decodes text using rot13 encryption
 * 102-odd: prints evry other line from input, starting form the first line
+* 103-water_and_stir: adds two numbers stored in environment variables
